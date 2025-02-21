@@ -9,3 +9,5 @@ J
 contracts/sensor-data.clar,3/5/355f28504f2dd3e44569dce7a79c666ee80a8020
 I
 tests/sensor-data.test.ts,1/5/15fba83d51e2a1ee87285d30038377b1925fde8f
+N
+contracts/crop-prediction.clar,e/9/e9e4d026794d1a7fea0a264d3ba5f571c15358a7
