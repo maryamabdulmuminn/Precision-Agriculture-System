@@ -15,3 +15,5 @@ M
 tests/crop-prediction.test.ts,b/6/b61d0f7324ea53db3e722e0fdc2a73425efa888b
 T
 $contracts/resource-optimization.clar,c/b/cb297363fa11d48abbdcdde8902077f154d9ac43
+S
+#tests/resource-optimization.test.ts,0/d/0d2e9a76422a21fd0a3e5c9117753afa2e937af3
