@@ -13,3 +13,5 @@ N
 contracts/crop-prediction.clar,e/9/e9e4d026794d1a7fea0a264d3ba5f571c15358a7
 M
 tests/crop-prediction.test.ts,b/6/b61d0f7324ea53db3e722e0fdc2a73425efa888b
+T
+$contracts/resource-optimization.clar,c/b/cb297363fa11d48abbdcdde8902077f154d9ac43
